@@ -3,9 +3,10 @@ import React from 'react'
 export const Navbar = () => {
 return (
 <div>
-    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="#">Carousel</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top">
+
+        <a class="navbar-brand" href="#">Tastee Top Grill</a>
+       {/* <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
             aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -21,7 +22,7 @@ return (
                     <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
                 </li>
             </ul>
-        </div>
+        </div>*/}
     </nav>
 </div>
 )

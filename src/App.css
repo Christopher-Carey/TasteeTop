@@ -1,0 +1,45 @@
+.carousel {
+    margin-top: 20px;
+    margin-bottom: 150px;
+}
+.container{
+    max-width: 900px;
+}
+
+.menu-img{
+    float: right;
+    width: 120px;
+}
+.location-img{
+    float: right;
+    width: 120px;
+}
+.hours-img{
+    width: 120px;
+}
+.hours-content{
+    float: right;
+}
+.carousel-img1{
+    width: 100%;
+}
+.menu-img-model{
+    width: 100%;
+}
+.bg-dark{
+    background-color: #0066D9;
+}
+.row{
+    box-shadow: 10px 5px 5px 2px #ca5d7b54;
+    padding: 20px;
+}
+.middle{
+    box-shadow: -10px 5px 5px 2px #ca5d7b54;
+    padding: 20px;
+}
+.navbar{
+    background-color: #0066D9;
+}
+.map-img{
+    width: 223px;
+}
